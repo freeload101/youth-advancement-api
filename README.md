@@ -60,7 +60,7 @@ flowchart LR
     P4[strip HTML tags from cells]
   end
   subgraph OUT[merged.json]
-    J[{name, currentRank, ranks:{...requirements}}]
+    J["{name, currentRank, ranks:{...requirements}}"]
   end
   R0 --> P1
   R1 --> P1
