@@ -82,7 +82,7 @@ flowchart LR
 flowchart TD
   POST["POST /scrape {targetUrl, extractionStrategy}"]
   POST --> CHECK{valid strategy?}
-  CHECK -->|no| E400[400 valid: network-intercept | accessibility-tree | custom]
+  CHECK -->|no| E400["400 valid: network-intercept | accessibility-tree | custom"]
   CHECK -->|yes| STRAT{strategy}
   STRAT -->|network-intercept| F1[return 200-status requests]
   STRAT -->|accessibility-tree| F2[return page.accessibility.snapshot()]
