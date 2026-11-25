@@ -85,9 +85,9 @@ flowchart TD
   CHECK -->|no| E400["400 valid: network-intercept | accessibility-tree | custom"]
   CHECK -->|yes| STRAT{strategy}
   STRAT -->|network-intercept| F1[return 200-status requests]
-  STRAT -->|accessibility-tree| F2[return page.accessibility.snapshot()]
-  STRAT -->|custom| F3[extract() full login + intercept]
-  F1 --> SC[scrape() launchBrowser → goto → extract → write files]
+  STRAT -->|accessibility-tree| F2["return page.accessibility.snapshot()"]
+  STRAT -->|custom| F3["extract() full login + intercept"]
+  F1 --> SC["scrape() launchBrowser → goto → extract → write files"]
   F2 --> SC
   F3 --> SC
 ```
