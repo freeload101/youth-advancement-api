@@ -1,0 +1,797 @@
+{
+  "title": "Scouts BSA Rank Requirements",
+  "source": "Scouts-BSA-Rank-Requirements.xlsx",
+  "converted": "2026-08-18T15:13:13.763Z",
+  "ranks": [
+    {
+      "name": "SCOUT",
+      "requirements": [
+        {
+          "number": "1a",
+          "description": "Repeat from memory the Scout Oath, Scout Law, Scout motto, and Scout slogan. In your own words, explain their meaning. (See pages 11-18.)",
+          "category": "General"
+        },
+        {
+          "number": "1b",
+          "description": "Explain what Scout spirit is. Describe some ways you have shown Scout spirit by practicing the Scout Oath, Scout Law, Scout motto, and Scout slogan. (See page 15.)",
+          "category": "General"
+        },
+        {
+          "number": "1c",
+          "description": "Demonstrate the Scout sign, salute, and handshake. Explain when they should be used. (See pages 18-19.)",
+          "category": "General"
+        },
+        {
+          "number": "1d",
+          "description": "Describe the First Class Scout badge and tell what each part stands for. Explain the significance of the First Class Scout badge. (See pages 19-20.)",
+          "category": "General"
+        },
+        {
+          "number": "1e",
+          "description": "Repeat from memory the Outdoor Code. List the seven principles of Leave No Trace. Explain the difference between the two. (See pages 223-224.)",
+          "category": "General"
+        },
+        {
+          "number": "1f",
+          "description": "Repeat from memory the Pledge of Allegiance. In your own words, explain its meaning. (See page 60.)",
+          "category": "General"
+        },
+        {
+          "number": "2",
+          "description": "After attending at least one Scout troop meeting, do the following:",
+          "category": "General"
+        },
+        {
+          "number": "2a",
+          "description": "Describe how the Scouts in the troop provide its leadership. (See pages 42-44.)",
+          "category": "General"
+        },
+        {
+          "number": "2b",
+          "description": "Describe the four steps of Scout advancement. (See pages 413-417.)",
+          "category": "General"
+        },
+        {
+          "number": "2c",
+          "description": "Describe what the Scouts BSA ranks are and how they are earned. (See pages 27 and 413-417.)",
+          "category": "General"
+        },
+        {
+          "number": "2d",
+          "description": "Describe what merit badges are and how they are earned. (See pages 418-420.)",
+          "category": "General"
+        },
+        {
+          "number": "3a",
+          "description": "Explain the patrol method. Describe the types of patrols that are used in your troop. (See page 25.)",
+          "category": "General"
+        },
+        {
+          "number": "3b",
+          "description": "Become familiar with your patrol name, emblem, flag, and yell. Explain how these items create patrol spirit. (See page 26.)",
+          "category": "General"
+        },
+        {
+          "number": "4a",
+          "description": "Show how to tie a square knot, two half-hitches, and a taut-line hitch. Explain how each knot is used. (See pages 365-367.)",
+          "category": "General"
+        },
+        {
+          "number": "4b",
+          "description": "Show the proper care of a rope by learning how to whip and fuse the ends of different kinds of rope. (See pages 361-362.)",
+          "category": "General"
+        },
+        {
+          "number": "5",
+          "description": "Tell what you need to know about using a pocketknife safely and responsibly. (See pages 379-381.)",
+          "category": "General"
+        },
+        {
+          "number": "6a",
+          "description": "With your parent or guardian, complete the exercises in the pamphlet How to Protect Your Children from Child Abuse: A Parent's Guide.",
+          "category": "General"
+        },
+        {
+          "number": "6b",
+          "description": "With your parent or guardian's permission, view the Personal Safety Awareness videos. (See the pamphlet inserted inside the front cover.) [Footnote 1: If your family does not have internet access at home AND you do not have ready internet access at school or another public place or via a mobile device, the Personal Safety Awareness videos portion of this requirement may be waived by your Scoutmaster in consultation with your parent or guardian.]",
+          "category": "General"
+        },
+        {
+          "number": "7",
+          "description": "Since joining the troop and while working on the Scout rank, participate in a Scoutmaster conference. (See page 418.)",
+          "category": "General"
+        }
+      ]
+    },
+    {
+      "name": "TENDERFOOT",
+      "requirements": [
+        {
+          "number": "1a",
+          "description": "Present yourself to your leader, prepared for an overnight camping trip. Show the personal and camping gear you will use. Show the right way to pack and carry it. (See pages 267-273.)",
+          "category": "Camping and Outdoor Ethics"
+        },
+        {
+          "number": "1b",
+          "description": "Spend at least one night on a patrol or troop campout. Sleep in a tent you have helped pitch. (See pages 276-279.)",
+          "category": "Camping and Outdoor Ethics"
+        },
+        {
+          "number": "1c",
+          "description": "Explain how you demonstrated the Outdoor Code and Leave No Trace on campouts or outings. (See pages 223-235.)",
+          "category": "Camping and Outdoor Ethics"
+        },
+        {
+          "number": "2a",
+          "description": "On the campout, assist in preparing one of the meals. Tell why it is important for each patrol member to share in meal preparation and cleanup. (See pages 304-305 and 310-324.)",
+          "category": "Cooking"
+        },
+        {
+          "number": "2b",
+          "description": "While on a campout, demonstrate the appropriate method of safely cleaning items used to prepare, serve, and eat a meal. (See pages 307-308.)",
+          "category": "Cooking"
+        },
+        {
+          "number": "2c",
+          "description": "Explain the importance of eating together as a patrol. (See page 325.)",
+          "category": "Cooking"
+        },
+        {
+          "number": "3a",
+          "description": "Demonstrate a practical use of the square knot. (See page 365.)",
+          "category": "Tools"
+        },
+        {
+          "number": "3b",
+          "description": "Demonstrate a practical use of two half-hitches. (See page 366.)",
+          "category": "Tools"
+        },
+        {
+          "number": "3c",
+          "description": "Demonstrate a practical use of the taut-line hitch. (See page 367.)",
+          "category": "Tools"
+        },
+        {
+          "number": "3d",
+          "description": "Demonstrate proper care, sharpening, and use of the knife, saw, and ax. Describe when each should be used. (See pages 378-387.)",
+          "category": "Tools"
+        },
+        {
+          "number": "4a",
+          "description": "Show first aid for the following:\r\n*  Simple cuts and scrapes (See page 125.)\r\n*  Blisters on the hand and foot (See pages 125-126.)\r\n*  Minor (thermal/heat) burns or scalds (superficial, or first-degree) (See pages 136-137.)\r\n*  Bites or stings of insects and ticks (See pages 131-132.)\r\n*  Venomous snakebite (See pages 129-130.)\r\n*  Nosebleed (See pages 126-127.)\r\n*  Frostbite and sunburn (See pages 136-137 and 140-141.)\r\n*  Choking (See pages 120-121.)",
+          "category": "First Aid and Nature"
+        },
+        {
+          "number": "4b",
+          "description": "Describe common poisonous or hazardous plants; identify any that grow in your local area or campsite location. Tell how to treat for exposure to them. (See pages 127 and 191-192.)",
+          "category": "First Aid and Nature"
+        },
+        {
+          "number": "4c",
+          "description": "Tell what you can do while on a campout or other outdoor activity to prevent or reduce the occurrence of injuries or exposure listed in Tenderfoot requirements 4a and 4b. (See pages 150-151.)",
+          "category": "First Aid and Nature"
+        },
+        {
+          "number": "4d",
+          "description": "Assemble a personal first-aid kit to carry with you on future campouts and hikes. Tell how each item in the kit would be used. (See page 108.)",
+          "category": "First Aid and Nature"
+        },
+        {
+          "number": "5a",
+          "description": "Explain the importance of the buddy system as it relates to your personal safety on outings and where you live. Use the buddy system while on a troop or patrol outing. (See pages 29 and 252.)",
+          "category": "Hiking"
+        },
+        {
+          "number": "5b",
+          "description": "Describe what to do if you become lost on a hike or campout. (See pages 254-255.)",
+          "category": "Hiking"
+        },
+        {
+          "number": "5c",
+          "description": "Explain the rules of safe and responsible hiking, both on the highway and cross-country, during the day and at night. (See pages 252-253.)",
+          "category": "Hiking"
+        },
+        {
+          "number": "5d",
+          "description": "Explain why it is important to hike on trails or other durable surfaces, and give examples of durable surfaces you saw on your outing.",
+          "category": "Hiking"
+        },
+        {
+          "number": "6a",
+          "description": "Record your best in the following tests: (See page 77.)\r\n*  Pushups (Record the number done correctly in 60 seconds.) (See page 79.)\r\n*  Situps or curl-ups (Record the number done correctly in 60 seconds.) (See page 80.)\r\n*  Back-saver sit-and-reach (Record the distance stretched.) (See page 80.)\r\n*  1-mile walk/run (Record the time.) (See page 81.)",
+          "category": "Fitness"
+        },
+        {
+          "number": "6b",
+          "description": "Develop and describe a plan for improvement in each of the activities listed in Tenderfoot requirement 6a. Keep track of your activity for at least 30 days. (See pages 76-77.)",
+          "category": "Fitness"
+        },
+        {
+          "number": "6c",
+          "description": "Show improvement (of any degree) in each activity listed in Tenderfoot requirement 6a after practicing for 30 days. (See page 77.)\r\n*  Pushups (Record the number done correctly in 60 seconds.) (See page 79.)\r\n*  Situps or curl-ups (Record the number done correctly in 60 seconds.) (See page 80.)\r\n*  Back-saver sit-and-reach (Record the distance stretched.) (See page 80.)\r\n*  1-mile walk/run (Record the time.) (See page 81.)",
+          "category": "Fitness"
+        },
+        {
+          "number": "7a",
+          "description": "Demonstrate how to display, raise, lower, and fold the U.S. flag. (See pages 58-60.)",
+          "category": "Citizenship"
+        },
+        {
+          "number": "7b",
+          "description": "Participate in a total of one hour of service in one or more service projects approved by your Scoutmaster. Explain how your service to others relates to the Scout slogan and Scout motto. (See pages 16-17 and 68.)",
+          "category": "Citizenship"
+        },
+        {
+          "number": "8",
+          "description": "Describe the steps in Scouting's Teaching EDGE method. Use the Teaching EDGE method to teach another person how to tie the square knot. (See pages 38-39 and 365.)",
+          "category": "Leadership"
+        },
+        {
+          "number": "9",
+          "description": "Demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived four different points of the Scout Law in your everyday life. (See pages 11-16 and 23.)",
+          "category": "Scout Spirit"
+        },
+        {
+          "number": "10",
+          "description": "While working toward the Tenderfoot rank, and after completing Scout rank requirement 7, participate in a Scoutmaster conference. (See page 418.)",
+          "category": "General"
+        },
+        {
+          "number": "11",
+          "description": "Successfully complete your board of review for the Tenderfoot rank. (See page 414.)",
+          "category": "General"
+        }
+      ]
+    },
+    {
+      "name": "SECOND CLASS",
+      "requirements": [
+        {
+          "number": "1a",
+          "description": "Since joining Scouts BSA, participate in five separate troop/patrol activities, at least three of which must be held outdoors. Of the outdoor activities, at least two must include overnight camping. These activities do not include troop or patrol meetings. On campouts, spend the night in a tent that you pitch or other structure that you help erect, such as a lean-to, snow cave, or tepee. (See pages 260 and 276-277.)",
+          "category": "Camping and Outdoor Ethics"
+        },
+        {
+          "number": "1b",
+          "description": "Recite the principles of Leave No Trace from memory. Explain how you follow them on all outings.",
+          "category": "Camping and Outdoor Ethics"
+        },
+        {
+          "number": "1c",
+          "description": "On one of these campouts, select a location for your patrol site and recommend it to your patrol leader, senior patrol leader, or troop guide. Explain what factors you should consider when choosing a patrol site and where to pitch a tent. (See pages 265-266.)",
+          "category": "Camping and Outdoor Ethics"
+        },
+        {
+          "number": "2a",
+          "description": "Explain when it is appropriate to use a fire for cooking or other purposes and when it would not be appropriate to do so. (See pages 303-304 and 387.)",
+          "category": "Cooking and Tools"
+        },
+        {
+          "number": "2b",
+          "description": "Use a pocketknife, and a saw or axe if needed, to prepare tinder, kindling, and fuel wood for a cooking fire. (See page 389.)",
+          "category": "Cooking and Tools"
+        },
+        {
+          "number": "2c",
+          "description": "Using a minimum-impact method at an approved outdoor location and time, use the tinder, kindling, and fuel wood from Second Class requirement 2b to demonstrate how to build a fire. Unless prohibited by local fire restrictions, light the fire. After allowing the flames to burn safely for at least two minutes, safely extinguish the flames with minimal impact to the fire site. Properly dispose of the ashes and any charred remains. (See pages 388-391.)",
+          "category": "Cooking and Tools"
+        },
+        {
+          "number": "2d",
+          "description": "Explain when it is appropriate to use a lightweight stove and when it is appropriate to use a propane stove. Set up a lightweight stove or propane stove. Light the stove, unless prohibited by local fire restrictions. Describe the safety procedures for using these types of stoves. (See pages 303-304 and 392-393.)",
+          "category": "Cooking and Tools"
+        },
+        {
+          "number": "2e",
+          "description": "On one campout, plan and cook one hot breakfast or lunch, selecting foods from MyPlate or the current USDA nutritional model. Explain the importance of good nutrition. Demonstrate how to transport, store, and prepare the foods you selected. (See pages 290-294, 300-301, 309, and 311-325.)",
+          "category": "Cooking and Tools"
+        },
+        {
+          "number": "2f",
+          "description": "Demonstrate tying the sheet bend knot. Describe a situation in which you would use this knot. (See page 370.)",
+          "category": "Cooking and Tools"
+        },
+        {
+          "number": "2g",
+          "description": "Demonstrate tying the bowline knot. Describe a situation in which you would use this knot. (See pages 369-370.)",
+          "category": "Cooking and Tools"
+        },
+        {
+          "number": "3a",
+          "description": "Demonstrate how a compass works and how to orient a map. Use a map to point out and tell the meaning of five map symbols. (See pages 332-343.)",
+          "category": "Navigation"
+        },
+        {
+          "number": "3b",
+          "description": "Using a compass and map together, take a 5-mile hike (or 10 miles by bike) approved by your adult leader and your parent or guardian. [Footnote 2: If you use a wheelchair or crutches, or if it is difficult for you to get around, you may substitute 'trip' for 'hike' in requirement 3b and 3c.] (See pages 340-345.)",
+          "category": "Navigation"
+        },
+        {
+          "number": "3c",
+          "description": "Describe some hazards or injuries that you might encounter on your hike and what you can do to help prevent them. [Footnote 2: see above.] (See page 252.)",
+          "category": "Navigation"
+        },
+        {
+          "number": "3d",
+          "description": "Demonstrate how to find directions during the day and at night without using a compass or an electronic device. (See pages 354-357.)",
+          "category": "Navigation"
+        },
+        {
+          "number": "4",
+          "description": "Identify or show evidence of at least 10 kinds of wild animals (such as birds, mammals, reptiles, fish, or mollusks) found in your local area or camping location. You may show evidence by tracks, signs, or photographs you have taken. (See pages 199-212.)",
+          "category": "Nature"
+        },
+        {
+          "number": "5a",
+          "description": "Tell what precautions must be taken for a safe swim. (See pages 158-161.)",
+          "category": "Aquatics"
+        },
+        {
+          "number": "5b",
+          "description": "Demonstrate your ability to pass the Scouting America beginner test: Jump feetfirst into water over your head in depth, level off and swim 25 feet on the surface, stop, turn sharply, resume swimming, then return to your starting place. [Footnote 3: Under certain exceptional conditions, where the climate keeps the outdoor water temperature below safe levels year-round, or where there are no suitably safe and accessible places (outdoors or indoors) within a reasonable traveling distance to swim at any time during the year, the council Scout executive and advancement committee may, on an individual Scout basis, authorize an alternative for requirements 5b and 5c. The local council may establish appropriate procedures for submitting and processing these types of requests. All the other requirements, none of which necessitate entry in the water or entry in a watercraft on the water, must be completed as written.] (See pages 168-170.)",
+          "category": "Aquatics"
+        },
+        {
+          "number": "5c",
+          "description": "Demonstrate water rescue methods by reaching with your arm or leg, by reaching with a suitable object, and by throwing lines and objects. [Footnote 3: see above.] (See pages 177-181.)",
+          "category": "Aquatics"
+        },
+        {
+          "number": "5d",
+          "description": "Explain why swimming rescues should not be attempted when a reaching or throwing rescue is possible. Explain why and how a rescue swimmer should avoid contact with the victim. (See pages 177 and 181.)",
+          "category": "Aquatics"
+        },
+        {
+          "number": "6a",
+          "description": "Demonstrate first aid for the following:\r\n*  Object in the eye (See page 133.)\r\n*  Bite of a warm-blooded animal (See page 128.)\r\n*  Puncture wounds from a splinter, nail, and fishhook (See pages 134-135.)\r\n*  Serious burns (partial thickness, or second-degree) (See pages 136-137.)\r\n*  Heat exhaustion (See page 139.)\r\n*  Shock (See pages 114 and 123-124.)\r\n*  Heatstroke, dehydration, hypothermia, and hyperventilation (See pages 135-141.)",
+          "category": "First Aid and Emergency Preparedness"
+        },
+        {
+          "number": "6b",
+          "description": "Show what to do for 'hurry' cases of stopped breathing, stroke, severe bleeding, and ingested poisoning. (See pages 115-122 and 124.)",
+          "category": "First Aid and Emergency Preparedness"
+        },
+        {
+          "number": "6c",
+          "description": "Tell what you can do while on a campout or hike to prevent or reduce the occurrence of the injuries listed in Second Class requirements 6a and 6b. (See pages 150-151.)",
+          "category": "First Aid and Emergency Preparedness"
+        },
+        {
+          "number": "6d",
+          "description": "Explain what to do in case of accidents that require emergency response in the home and backcountry. Explain what constitutes an emergency and what information you will need to provide to a responder. (See pages 151-155.)",
+          "category": "First Aid and Emergency Preparedness"
+        },
+        {
+          "number": "6e",
+          "description": "Tell how you should respond if you come upon the scene of a vehicular accident. (See page 152.)",
+          "category": "First Aid and Emergency Preparedness"
+        },
+        {
+          "number": "7a",
+          "description": "After completing Tenderfoot requirement 6c, be physically active at least 30 minutes each day for five days a week for four weeks. Keep track of your activities. (See pages 76-77 and 79-81.)",
+          "category": "Fitness"
+        },
+        {
+          "number": "7b",
+          "description": "Share your challenges and successes in completing Second Class requirement 7a. Set a goal for continuing to include physical activity as part of your daily life and develop a plan for doing so. (See pages 76-77.)",
+          "category": "Fitness"
+        },
+        {
+          "number": "7c",
+          "description": "Participate in a school, community, or troop program on the dangers of using drugs, alcohol, and tobacco and other practices that could be harmful to your health. Discuss your participation in the program with your family, and explain the dangers of substance addictions. Report to your Scoutmaster or other adult leader in your troop about which parts of the Scout Oath and Scout Law relate to what you learned. (See pages 94-98.)",
+          "category": "Fitness"
+        },
+        {
+          "number": "8a",
+          "description": "Participate in a flag ceremony for your school, religious institution, chartered organization, community, or Scouting activity. (See pages 60-61.)",
+          "category": "Citizenship"
+        },
+        {
+          "number": "8b",
+          "description": "Explain what respect is due the flag of the United States. (See pages 56-62.)",
+          "category": "Citizenship"
+        },
+        {
+          "number": "8c",
+          "description": "With your parents or guardian, decide on an amount of money that you would like to earn, based on the cost of a specific item you would like to purchase. Develop a written plan to earn the amount agreed upon and follow that plan; it is acceptable to make changes to your plan along the way. Discuss any changes made to your original plan and whether you met your goal. (See pages 14-15.)",
+          "category": "Citizenship"
+        },
+        {
+          "number": "8d",
+          "description": "At a minimum of three locations, compare the cost of the item for which you are saving to determine the best place to purchase it. After completing Second Class requirement 8c, decide if you will use the amount that you earned as originally intended, save all or part of it, or use it for another purpose. (See pages 14-15.)",
+          "category": "Citizenship"
+        },
+        {
+          "number": "8e",
+          "description": "Participate in two hours of service through one or more service projects approved by your Scoutmaster. Tell how your service to others relates to the Scout Oath. (See pages 11-12 and 68.)",
+          "category": "Citizenship"
+        },
+        {
+          "number": "9a",
+          "description": "Explain the three R's of personal safety and protection. (See page 400.)",
+          "category": "Personal Safety Awareness"
+        },
+        {
+          "number": "9b",
+          "description": "Describe bullying; tell what the appropriate response is to someone who is bullying you or another person. (See pages 406-408.)",
+          "category": "Personal Safety Awareness"
+        },
+        {
+          "number": "10",
+          "description": "Demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived four different points of the Scout Law (not to include those used for Tenderfoot requirement 9) in your everyday life. (See pages 11-16 and 23.)",
+          "category": "Scout Spirit"
+        },
+        {
+          "number": "11",
+          "description": "While working toward the Second Class rank, and after completing Tenderfoot requirement 10, participate in a Scoutmaster conference. (See page 418.)",
+          "category": "General"
+        },
+        {
+          "number": "12",
+          "description": "Successfully complete your board of review for the Second Class rank. (See page 414.)",
+          "category": "General"
+        }
+      ]
+    },
+    {
+      "name": "FIRST CLASS",
+      "requirements": [
+        {
+          "number": "1a",
+          "description": "Since joining Scouts BSA, participate in 10 separate troop/patrol activities, at least six of which must be held outdoors. Of the outdoor activities, at least three must include overnight camping. These activities do not include troop or patrol meetings. On campouts, spend the night in a tent that you pitch or other structure that you help erect, such as a lean-to, snow cave, or tepee. (See pages 260 and 276-277.)",
+          "category": "Camping and Outdoor Ethics"
+        },
+        {
+          "number": "1b",
+          "description": "Explain the potential impacts of camping, both on the environment and on other outdoor users. Explain why the Outdoor Code and Leave No Trace principles are important for protecting the outdoors. (See pages 221-235.)",
+          "category": "Camping and Outdoor Ethics"
+        },
+        {
+          "number": "2a",
+          "description": "Help plan a menu for one of the above campouts that includes at least one breakfast, one lunch, and one dinner, and that requires cooking at least two of the meals. Tell how the menu includes the foods from MyPlate or the current USDA nutritional model and how it meets nutritional needs for the planned activity or campout. (See pages 290-301 and 311-325.)",
+          "category": "Cooking"
+        },
+        {
+          "number": "2b",
+          "description": "Using the menu planned in First Class requirement 2a, make a list showing a budget and the food amounts needed to feed three or more youth. Secure the ingredients. (See pages 296-299.)",
+          "category": "Cooking"
+        },
+        {
+          "number": "2c",
+          "description": "Show which pans, utensils, and other gear will be needed to cook and serve these meals. (See pages 302-304.)",
+          "category": "Cooking"
+        },
+        {
+          "number": "2d",
+          "description": "Demonstrate the procedures to follow in the safe handling and storage of fresh meats, dairy products, eggs, vegetables, and other perishable food products. Show how to properly dispose of camp garbage, cans, plastic containers, waste water, and other rubbish. (See pages 306-309.)",
+          "category": "Cooking"
+        },
+        {
+          "number": "2e",
+          "description": "On one campout, serve as cook. Supervise your assistant(s) in using a stove or building a cooking fire. Prepare the breakfast, lunch, and dinner planned in First Class requirement 2a. Supervise the cleanup. (See pages 304-311.)",
+          "category": "Cooking"
+        },
+        {
+          "number": "3a",
+          "description": "Discuss when you should and should not use lashings. (See pages 371-378.)",
+          "category": "Tools"
+        },
+        {
+          "number": "3b",
+          "description": "Demonstrate tying the timber hitch and clove hitch. (See pages 367-368.)",
+          "category": "Tools"
+        },
+        {
+          "number": "3c",
+          "description": "Demonstrate tying the square, shear, and diagonal lashings by joining two or more poles or staves together. (See pages 373-376.)",
+          "category": "Tools"
+        },
+        {
+          "number": "3d",
+          "description": "Use lashings to make a useful camp gadget or structure. (See pages 371-378.)",
+          "category": "Tools"
+        },
+        {
+          "number": "4a",
+          "description": "Using a map and compass, complete an orienteering course that covers at least one mile and requires measuring the height and/or width of designated items (tree, tower, canyon, ditch, etc.). (See pages 328-331, 340-345, and 350-351.)",
+          "category": "Navigation"
+        },
+        {
+          "number": "4b",
+          "description": "Demonstrate how to use a handheld GPS unit, GPS app on a smartphone, or other electronic navigation system. Use GPS to find your current location, a destination of your choice, and the route you will take to get there. Follow that route to arrive at your destination. (See pages 345-349.)",
+          "category": "Navigation"
+        },
+        {
+          "number": "5a",
+          "description": "Identify or show evidence of at least 10 kinds of native plants found in your local area or campsite location. You may show evidence by identifying fallen leaves or fallen fruit that you find in the field, or as part of a collection you have made, or by photographs you have taken. (See pages 188-199.)",
+          "category": "Nature"
+        },
+        {
+          "number": "5b",
+          "description": "Identify two ways to obtain a weather forecast for an upcoming activity. Explain why weather forecasts are important when planning for an event. (See pages 212-218.)",
+          "category": "Nature"
+        },
+        {
+          "number": "5c",
+          "description": "Describe at least three natural indicators of impending hazardous weather, the potential dangerous events that might result from such weather conditions, and the appropriate actions to take. (See pages 212-218.)",
+          "category": "Nature"
+        },
+        {
+          "number": "5d",
+          "description": "Describe extreme weather conditions you might encounter in the outdoors in your local geographic area. Discuss how you would determine ahead of time the potential risk of these types of weather dangers, alternative planning considerations to avoid such risks, and how you would prepare for and respond to those weather conditions. (See pages 212-218.)",
+          "category": "Nature"
+        },
+        {
+          "number": "6a",
+          "description": "Successfully complete the Scouting America swimmer test. [Footnote 4: See the Swimming merit badge requirements for details about the Scouting America swimmer test.] [Footnote 5: Under certain exceptional conditions, where the climate keeps the outdoor water temperature below safe levels year-round, or where there are no suitably safe and accessible places (outdoors or indoors) within a reasonable traveling distance to swim at any time during the year, the council Scout executive and advancement committee may, on an individual Scout basis, authorize an alternative for requirements 6a and 6e. The local council may establish appropriate procedures for submitting and processing these types of requests. All the other requirements, none of which necessitate entry in the water or entry in a watercraft on the water, must be completed as written.] (See pages 168-170.)",
+          "category": "Aquatics"
+        },
+        {
+          "number": "6b",
+          "description": "Tell what precautions must be taken for a safe trip afloat. (See pages 172-174.)",
+          "category": "Aquatics"
+        },
+        {
+          "number": "6c",
+          "description": "Identify the basic parts of a canoe, kayak, or other boat. Identify the parts of a paddle or an oar. (See pages 174-175.)",
+          "category": "Aquatics"
+        },
+        {
+          "number": "6d",
+          "description": "Describe proper body positioning in a watercraft, depending on the type and size of the vessel. Explain the importance of proper body position in the boat. (See page 176.)",
+          "category": "Aquatics"
+        },
+        {
+          "number": "6e",
+          "description": "With a helper and a practice victim, show a line rescue both as tender and as rescuer. (The practice victim should be approximately 30 feet from shore in deep water.) [Footnote 5: see above.] (See page 180.)",
+          "category": "Aquatics"
+        },
+        {
+          "number": "7a",
+          "description": "Demonstrate bandages for a sprained ankle and for injuries on the head, the upper arm, and the collarbone. (See pages 142-148.)",
+          "category": "First Aid and Emergency Preparedness"
+        },
+        {
+          "number": "7b",
+          "description": "By yourself and with a partner, show how to:\r\n*  Transport a person from a smoke-filled room. (See pages 149-150.)\r\n*  Transport for at least 25 yards a person with a sprained ankle. (See page 150.)",
+          "category": "First Aid and Emergency Preparedness"
+        },
+        {
+          "number": "7c",
+          "description": "Tell the five most common signals of a heart attack. Explain the steps (procedures) in cardiopulmonary resuscitation (CPR). (See pages 116-119.)",
+          "category": "First Aid and Emergency Preparedness"
+        },
+        {
+          "number": "7d",
+          "description": "Tell what utility services exist in your home or meeting place. Describe potential hazards associated with these utilities and tell how to respond in emergency situations. (See pages 154-155.)",
+          "category": "First Aid and Emergency Preparedness"
+        },
+        {
+          "number": "7e",
+          "description": "Develop an emergency action plan for your home that includes what to do in case of fire, storm, power outage, and water outage. (See pages 153-155.)",
+          "category": "First Aid and Emergency Preparedness"
+        },
+        {
+          "number": "7f",
+          "description": "Explain how to obtain potable water in an emergency. (See page 240.)",
+          "category": "First Aid and Emergency Preparedness"
+        },
+        {
+          "number": "8a",
+          "description": "After completing Second Class requirement 7a, be physically active at least 30 minutes each day for five days a week for four weeks. Keep track of your activities. (See pages 76-77 and 79-81.)",
+          "category": "Fitness"
+        },
+        {
+          "number": "8b",
+          "description": "Share your challenges and successes in completing First Class requirement 8a. Set a goal for continuing to include physical activity as part of your daily life. (See pages 76-77.)",
+          "category": "Fitness"
+        },
+        {
+          "number": "9a",
+          "description": "Visit and discuss with a selected individual approved by your leader (for example, an elected official, judge, attorney, civil servant, principal, or teacher) the constitutional rights and obligations of a U.S. citizen. (See pages 54-55 and 66-67.)",
+          "category": "Citizenship"
+        },
+        {
+          "number": "9b",
+          "description": "Investigate an environmental issue affecting your community. Share what you learned about that issue with your patrol or troop. Tell what, if anything, could be done by you or your community to address the concern. (See pages 55-56.)",
+          "category": "Citizenship"
+        },
+        {
+          "number": "9c",
+          "description": "On a Scouting or family outing, take note of the trash and garbage you produce. Before your next similar outing, decide how you can reduce, recycle, or repurpose what you take on that outing, and then put those plans into action. Compare your results. (See pages 55-56.)",
+          "category": "Citizenship"
+        },
+        {
+          "number": "9d",
+          "description": "Participate in three hours of service through one or more service projects approved by your Scoutmaster. The project(s) must not be the same service project(s) used for Tenderfoot requirement 7b and Second Class requirement 8e. Explain how your service to others relates to the Scout Law. (See pages 13-16.)",
+          "category": "Citizenship"
+        },
+        {
+          "number": "10",
+          "description": "Tell someone who is eligible to join Scouts BSA, or an inactive Scout, about your Scouting activities. Invite this person to an outing, activity, service project, or meeting. Provide information on how to join, or encourage the inactive Scout to become active. Share your efforts with your Scoutmaster or other adult leader. (See the inside front cover.)",
+          "category": "Leadership"
+        },
+        {
+          "number": "11",
+          "description": "Demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived four different points of the Scout Law (different from those points used for previous ranks) in your everyday life. (See pages 11-16 and 23.)",
+          "category": "Scout Spirit"
+        },
+        {
+          "number": "12",
+          "description": "While working toward the First Class rank, and after completing Second Class requirement 11, participate in a Scoutmaster conference. (See page 418.)",
+          "category": "General"
+        },
+        {
+          "number": "13",
+          "description": "Successfully complete your board of review for the First Class rank. (See page 414.)",
+          "category": "General"
+        }
+      ]
+    },
+    {
+      "name": "STAR",
+      "requirements": [
+        {
+          "number": "1",
+          "description": "Be active in your troop for at least four months as a First Class Scout. (See page 24.)",
+          "category": "General"
+        },
+        {
+          "number": "2",
+          "description": "As a First Class Scout, demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived the Scout Oath and Scout Law in your everyday life. (See pages 11-16 and 23.)",
+          "category": "General"
+        },
+        {
+          "number": "3",
+          "description": "Earn six merit badges, including any four from the required list for Eagle. You may choose any of the 18 merit badges on the required list for Eagle to fulfill this requirement. See Eagle rank requirement 3 for this list. (See pages 28 and 416-420.) [Merit badge tracking table: NAME OF MERIT BADGE / DATE EARNED â€” (Eagle-required); (Eagle-required); (Eagle-required); (Eagle-required)]",
+          "category": "General"
+        },
+        {
+          "number": "4",
+          "description": "While a First Class Scout, participate in six hours of service through one or more service projects approved by your Scoutmaster.",
+          "category": "General"
+        },
+        {
+          "number": "5",
+          "description": "While a First Class Scout, serve actively in your troop for four months in one or more of the following positions of responsibility (or carry out a Scoutmaster-approved leadership project to help the troop): (See pages 422-425.)\r\nScout troop: Patrol leader, assistant senior patrol leader, senior patrol leader, troop guide, Order of the Arrow troop representative, den chief, scribe, librarian, historian, quartermaster, bugler, junior assistant Scoutmaster, chaplain aide, instructor, webmaster, or outdoor ethics guide.\r\nVenturing crew/Sea Scout ship: President, vice president, secretary, treasurer, den chief, quartermaster, historian, guide, boatswain, boatswain's mate, yeoman, purser, storekeeper, chaplain aide, outdoor ethics guide, crew leader, media specialist, specialist or webmaster.\r\nLone Scout: Leadership responsibility in your school, religious organization, club, or elsewhere in your community.",
+          "category": "General"
+        },
+        {
+          "number": "6a",
+          "description": "With your parent or guardian, complete the exercises in the pamphlet How to Protect Your Children from Child Abuse: A Parent's Guide.",
+          "category": "General"
+        },
+        {
+          "number": "6b",
+          "description": "With your parent or guardian's permission, view the Personal Safety Awareness videos. (See the pamphlet inserted inside the front cover.)",
+          "category": "General"
+        },
+        {
+          "number": "7",
+          "description": "While a First Class Scout, participate in a Scoutmaster conference. (See page 418.)",
+          "category": "General"
+        },
+        {
+          "number": "8",
+          "description": "Successfully complete your board of review for the Star rank. (See page 414.)",
+          "category": "General"
+        }
+      ]
+    },
+    {
+      "name": "LIFE",
+      "requirements": [
+        {
+          "number": "1",
+          "description": "Be active in your troop for at least six months as a Star Scout. (See page 24.)",
+          "category": "General"
+        },
+        {
+          "number": "2",
+          "description": "As a Star Scout, demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived the Scout Oath and Scout Law in your everyday life. (See pages 11-16 and 23.)",
+          "category": "General"
+        },
+        {
+          "number": "3",
+          "description": "Earn five more merit badges (so that you have 11 in all), including any three additional badges from the required list for Eagle. You may choose any of the 18 merit badges on the required list for Eagle to fulfill this requirement. See Eagle rank requirement 3 for this list. (See pages 28 and 422-425.) [Merit badge tracking table: NAME OF MERIT BADGE / DATE EARNED â€” (Eagle-required); (Eagle-required); (Eagle-required)]",
+          "category": "General"
+        },
+        {
+          "number": "4",
+          "description": "While a Star Scout, participate in six hours of service through one or more service projects approved by your Scoutmaster. At least three hours of this service must be conservation-related.",
+          "category": "General"
+        },
+        {
+          "number": "5",
+          "description": "While a Star Scout, serve actively in your troop for six months in one or more of the following troop positions of responsibility (or carry out a Scoutmaster-approved leadership project to help the troop). (See pages 422-425.)\r\nScout troop: Patrol leader, assistant senior patrol leader, senior patrol leader, troop guide, Order of the Arrow troop representative, den chief, scribe, librarian, historian, quartermaster, bugler, junior assistant Scoutmaster, chaplain aide, instructor, webmaster, or outdoor ethics guide.\r\nVenturing crew/Sea Scout ship: President, vice president, secretary, treasurer, den chief, quartermaster, historian, guide, boatswain, boatswain's mate, yeoman, purser, storekeeper, chaplain aide, outdoor ethics guide, crew leader, media specialist, specialist or webmaster.\r\nLone Scout: Leadership responsibility in your school, religious organization, club, or elsewhere in your community.",
+          "category": "General"
+        },
+        {
+          "number": "6",
+          "description": "While a Star Scout, use the Teaching EDGE method to teach another Scout (preferably younger than you) the skills from ONE of the following choices, so that the Scout is prepared to pass those requirements to their Scoutmaster's satisfaction. (See page 38.)\r\na. Tenderfoot 4a and 4b (first aid)\r\nb. Second Class 2b, 2c, and 2d (cooking/tools)\r\nc. Second Class 3a and 3d (navigation)\r\nd. First Class 3a, 3b, 3c, and 3d (tools)\r\ne. First Class 4a and 4b (navigation)\r\nf. Second Class 6a and 6b (first aid)\r\ng. First Class 7a and 7b (first aid)",
+          "category": "General"
+        },
+        {
+          "number": "7",
+          "description": "While a Star Scout, participate in a Scoutmaster conference. (See page 418.)",
+          "category": "General"
+        },
+        {
+          "number": "8",
+          "description": "Successfully complete your board of review for the Life rank. (See page 414.)",
+          "category": "General"
+        }
+      ]
+    },
+    {
+      "name": "EAGLE",
+      "requirements": [
+        {
+          "number": "1",
+          "description": "Be active in your troop for at least six months as a Life Scout. (See page 24.)",
+          "category": "General"
+        },
+        {
+          "number": "2",
+          "description": "As a Life Scout, demonstrate Scout Spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God, how you have lived the Scout Oath and Scout Law in your everyday life, and how your understanding of the Scout Oath and Scout Law will guide your life in the future. List on your Eagle Scout Rank Application the names of individuals who know you personally and would be willing to provide a recommendation on your behalf, including parents/guardians, religious (if not affiliated with an organized religion, then the parent or guardian provides this reference), educational, employer (if employed), and two other references. (See pages 11-16, 23, and 415.)",
+          "category": "General"
+        },
+        {
+          "number": "3",
+          "description": "Earn a total of 21 merit badges (10 more than required for the Life rank), including these 14 merit badges: (a) First Aid, (b) Citizenship in the Community, (c) Citizenship in the Nation, (d) Citizenship in Society, (e) Citizenship in the World, (f) Communication, (g) Cooking, (h) Personal Fitness, (i) Emergency Preparedness OR Lifesaving, (j) Environmental Science OR Sustainability, (k) Personal Management, (l) Swimming OR Hiking OR Cycling, (m) Camping, and (n) Family Life. You must choose only one of the merit badges listed in categories i, j, and l. Any additional merit badge(s) earned in those categories may be counted as one of your seven optional merit badges used to make your total of 21. (See pages 28 and 416-419.) [Merit badge tracking table: NAME OF MERIT BADGE / DATE EARNED  1. 2. 3. 4. 5. 6. 7. 8. 9. 10.]",
+          "category": "General"
+        },
+        {
+          "number": "4",
+          "description": "While a Life Scout, serve actively in your troop for six months in one or more of the following positions of responsibility [Footnote 11: Assistant patrol leader and bugler are not approved positions of responsibility for the Eagle Scout rank. Likewise, a Scoutmaster-approved leadership project cannot be used in lieu of serving in a position of responsibility.]: (See pages 422-425.)\r\nScout troop: Patrol leader, assistant senior patrol leader, senior patrol leader, troop guide, Order of the Arrow troop representative, den chief, scribe, librarian, historian, quartermaster, junior assistant Scoutmaster, chaplain aide, instructor, webmaster, or outdoor ethics guide.\r\nVenturing crew/Sea Scout ship: President, vice president, secretary, treasurer, quartermaster, historian, den chief, guide, boatswain, boatswain's mate, yeoman, purser, storekeeper, chaplain aide, outdoor ethics guide, crew leader, media specialist, specialist or webmaster.\r\nLone Scout: Leadership responsibility in your school, religious organization, club, or elsewhere in your community.\r\n[Note: For Venturers working on Scouts BSA requirements, replace 'troop' with 'crew' and 'Scoutmaster' with 'crew Advisor.' For Sea Scouts working on Scouts BSA requirements, replace 'troop' with 'ship' and 'Scoutmaster' with 'Skipper.']",
+          "category": "General"
+        },
+        {
+          "number": "5",
+          "description": "While a Life Scout, plan, develop, and give leadership to others in a service project helpful to any religious institution, any school, or your community. (The project must benefit an organization other than Scouting America.) A project proposal must be approved by the organization benefiting from the effort, your Scoutmaster and unit committee, and the council or district before you start. You must use the Eagle Scout Service Project Workbook, Scouting America publication No. 512-927, in meeting this requirement. (To learn more about the Eagle Scout service project, see the Guide to Advancement, topics 9.0.2.0 through 9.0.2.16.) (See pages 418-419.)",
+          "category": "General"
+        },
+        {
+          "number": "6",
+          "description": "While a Life Scout, participate in a Scoutmaster conference. In preparation for your board of review, prepare and attach to your Eagle Scout Rank Application a statement of your ambitions and life purpose and a listing of positions held in your religious institution, school, camp, community, or other organizations, during which you demonstrated leadership skills. Include honors and awards received during this service. (See page 418.)",
+          "category": "General"
+        },
+        {
+          "number": "7",
+          "description": "Successfully complete your board of review for the Eagle Scout rank. (This requirement may be met after age 18, in accordance with Guide to Advancement topic 8.0.3.1.) (See page 414.)",
+          "category": "General"
+        },
+        {
+          "number": "",
+          "description": "If a Scout believes all requirements for the Eagle Scout rank have been completed but a board of review is denied, the Scout may request a board of review under disputed circumstances in accordance with Guide to Advancement topic 8.0.3.2. If the board of review does not approve the Scout's advancement, the decision may be appealed in accordance with Guide to Advancement topic 8.0.4.0. If a Scout foresees that, due to no fault or choice of their own, it will not be possible to complete the Eagle Scout rank requirements before age 18, the Scout may apply for a limited time extension in accordance with Guide to Advancement topic 9.0.4.0. Time extensions are rarely granted and reserved only for work on Eagle.",
+          "category": "Appeals and Extensions"
+        },
+        {
+          "number": "",
+          "description": "Merit badges, badges of rank, and Eagle Palms may be earned by a registered Scout or a qualified Venturer or Sea Scout. Scouts may earn these awards until their 18th birthday. Any Venturer or Sea Scout who has achieved the First Class rank as a Scout in a troop may continue working up to their 18th birthday toward the Star, Life, and Eagle Scout ranks and Eagle Palms. An Eagle Scout board of review may occur, without special approval, within 24 months after the 18th birthday. Consult the Guide to Advancement topic 8.0.3.1, if a Board of Review is to be conducted more than 24 months after the candidate's 18th birthday. If you have a permanent physical or mental disability, or a disability expected to last more than two years or beyond age 18, you may become an Eagle Scout by qualifying for as many required merit badges as you can and qualifying for alternative merit badges for the rest. If you seek to become an Eagle Scout under this procedure, you must submit a special application to your local council service center. Your application must be approved by your council advancement committee before you can work on alternative merit badges. A Scout or Venturer with a disability may also qualify to work toward rank advancement after reaching 18 years of age if the guidelines outlined in section 10 of the Guide to Advancement are met.",
+          "category": "Age Requirement Eligibility"
+        }
+      ]
+    },
+    {
+      "name": "EAGLE PALM",
+      "requirements": [
+        {
+          "number": "1",
+          "description": "Since earning the Eagle Scout rank or your last Eagle Palm, demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived the Scout Oath and Scout Law in your everyday life. (See pages 11-16, 23, and 415.)",
+          "category": "General"
+        },
+        {
+          "number": "2",
+          "description": "Continue to set a satisfactory example of accepting responsibility or demonstrating leadership ability. (See pages 32-44.)",
+          "category": "General"
+        },
+        {
+          "number": "3",
+          "description": "Earn five additional merit badges beyond those required for Eagle or last Palm. [Footnote **: Merit badges earned any time since becoming a Scout may be used to meet this requirement.] (See pages 28 and 46-49.)",
+          "category": "General"
+        }
+      ]
+    }
+  ]
+}
