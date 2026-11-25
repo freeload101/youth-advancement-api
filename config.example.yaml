@@ -1,0 +1,37 @@
+# =============================================================================
+#  config.example.yaml — COPY THIS FILE TO config.yaml, THEN FILL IN VALUES
+# =============================================================================
+#
+#  config.yaml is git-IGNORED (see .gitignore), so real credentials are never
+#  committed to the repo. Commit only this example file.
+#
+#  Setup:
+#    1. cp config.example.yaml config.yaml
+#    2. Edit config.yaml and replace the placeholder values below.
+#    3. (Optional) change REPORT_ID in ScoutBookAPI.js to pull a different troop report.
+#
+#  NOTE: This file is read once at startup by ScoutBookAPI.js. If it is missing or
+#  malformed the process exits immediately — fix it before running.
+# =============================================================================
+
+# ── BSA Scoutbook credentials ───────────────────────────
+# Used by authenticate() to obtain an API/session token, and by extract() to
+# autofill the login form on advancements.scouting.org.
+scoutbook:
+  user: "YOUR_SCOUTBOOK_USERNAME"
+  password: "YOUR_SCOUTBOOK_PASSWORD"
+
+# ── Local LLM (Fast model) ──────────────────────────────
+# Endpoint for the local LLM used by generate.js / other analysis steps.
+# Not read by ScoutBookAPI.js's default pipeline, but kept here for the full toolchain.
+llm:
+  baseUrl: "http://YOUR_LLM_ENDPOINT/v1"   # e.g. http://127.0.0.1:41985/v1
+  apiKey: "YOUR_LLM_API_KEY"
+  model: "FAST"                            # model identifier expected by the endpoint
+  maxTokens: 40000                         # max output tokens per request
+
+# ── 2Captcha solver (for advancements.scouting.org reCAPTCHA) ──
+# Only needed if you need to solve reCAPTCHAs automatically.
+twocaptcha:
+  apiKey: "YOUR_2CAPTCHA_API_KEY"
+  baseUrl: "https://2captcha.com/invoke"
